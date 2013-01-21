@@ -13,12 +13,12 @@ else in the doc, define the link:
 
   *   Abacus
     * answer
-*   Bubbles
+  *   Bubbles
     1.  bunk
     2.  bupkis
         * BELITTLER
     3. burper
-*   Cunning
+  *   Cunning
 
 
 > Email-style angle brackets
